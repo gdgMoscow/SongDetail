@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:26.0.1] /home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/aleksei/.android/build-cache/9bf9fd3f3ff4065f080106a2a97f7da83b193768/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/aleksei/.android/build-cache/26639c3f0d3a9b5700ab751c41d00a8f62386aec/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/aleksei/.android/build-cache/eb67494f134c5fbb1aa3944b4a4609e82f9babed/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] /home/aleksei/.android/build-cache/cf4b4706c2ed9d5dda058ec778a4ab02e1effae1/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] /home/aleksei/.android/build-cache/971c01898a3d8bf18d8579e5beb47b4355b13d6a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/aleksei/.android/build-cache/a57af0073bcd6f1ce0258d80acf479ccdab08fe2/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /home/aleksei/.android/build-cache/293abd7f2fa3ff9591080b914065051469d52eba/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/aleksei/.android/build-cache/29e70e54f8ee2fb5ae956230a0e62f14a9e40b45/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/aleksei/.android/build-cache/5a740c07408d8a6ad7769e357c3f0c9ef6ff4169/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /home/aleksei/.android/build-cache/e4011237111e551ea61310fc54adb7fd7e300690/output/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.songdetailstart.MainActivity
+ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:13:13-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.android.songdetailstart.SongDetailActivity
+ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:24:13-54
+	android:parentActivityName
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:25:13-90
+	android:theme
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:23:13-82
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:27:13-29:84
+	android:value
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:28:17-63
+uses-sdk
+INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.1] /home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/aleksei/.android/build-cache/9bf9fd3f3ff4065f080106a2a97f7da83b193768/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/aleksei/.android/build-cache/26639c3f0d3a9b5700ab751c41d00a8f62386aec/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/aleksei/.android/build-cache/eb67494f134c5fbb1aa3944b4a4609e82f9babed/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] /home/aleksei/.android/build-cache/cf4b4706c2ed9d5dda058ec778a4ab02e1effae1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] /home/aleksei/.android/build-cache/971c01898a3d8bf18d8579e5beb47b4355b13d6a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/aleksei/.android/build-cache/a57af0073bcd6f1ce0258d80acf479ccdab08fe2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] /home/aleksei/.android/build-cache/293abd7f2fa3ff9591080b914065051469d52eba/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/aleksei/.android/build-cache/29e70e54f8ee2fb5ae956230a0e62f14a9e40b45/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/aleksei/.android/build-cache/5a740c07408d8a6ad7769e357c3f0c9ef6ff4169/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] /home/aleksei/.android/build-cache/e4011237111e551ea61310fc54adb7fd7e300690/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] /home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] /home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/aleksei/.android/build-cache/9bf9fd3f3ff4065f080106a2a97f7da83b193768/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/aleksei/.android/build-cache/26639c3f0d3a9b5700ab751c41d00a8f62386aec/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/aleksei/.android/build-cache/eb67494f134c5fbb1aa3944b4a4609e82f9babed/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] /home/aleksei/.android/build-cache/cf4b4706c2ed9d5dda058ec778a4ab02e1effae1/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] /home/aleksei/.android/build-cache/971c01898a3d8bf18d8579e5beb47b4355b13d6a/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/aleksei/.android/build-cache/a57af0073bcd6f1ce0258d80acf479ccdab08fe2/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /home/aleksei/.android/build-cache/293abd7f2fa3ff9591080b914065051469d52eba/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/aleksei/.android/build-cache/29e70e54f8ee2fb5ae956230a0e62f14a9e40b45/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/aleksei/.android/build-cache/5a740c07408d8a6ad7769e357c3f0c9ef6ff4169/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /home/aleksei/.android/build-cache/e4011237111e551ea61310fc54adb7fd7e300690/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] /home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] /home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/AndroidManifest.xml:27:13-51

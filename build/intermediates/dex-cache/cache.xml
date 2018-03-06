@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/pre-dexed/debug/classes_433e85729f070cd6b32d21f414cd774dadaaae1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/cf4b4706c2ed9d5dda058ec778a4ab02e1effae1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/pre-dexed/debug/classes_991052c1d1ef6b7708b5fdd407241aa02de89155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/eb67494f134c5fbb1aa3944b4a4609e82f9babed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/pre-dexed/debug/classes_08cd50acda1e44912560ea02d3d8a9aa466dfe6a.jar" />
+    </item>
+
+</items>
