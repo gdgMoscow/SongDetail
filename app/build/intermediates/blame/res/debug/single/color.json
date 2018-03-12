@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_primary_text_material_dark.xml"
     },
@@ -20,20 +24,16 @@
         "source": "/home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/res/color/design_error.xml"
     },
     {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
@@ -48,28 +48,116 @@
         "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
         "source": "/home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
         "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_spinner.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
         "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/aleksei/.android/build-cache/f08fc7cd73c9b100240a4b2cf3fb2f4c055242ac/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
         "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
         "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
@@ -78,9 +166,5 @@
     {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
         "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/aleksei/.android/build-cache/6f1b1795399163443acf98e316dff95709638033/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     }
 ]

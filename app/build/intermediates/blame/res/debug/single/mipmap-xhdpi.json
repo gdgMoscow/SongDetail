@@ -4,7 +4,15 @@
         "source": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
         "source": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     }
 ]

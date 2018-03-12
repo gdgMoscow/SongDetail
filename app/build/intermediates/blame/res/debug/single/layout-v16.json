@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 1/SongDetail/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/aleksei/.android/build-cache/e4011237111e551ea61310fc54adb7fd7e300690/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/android-advanced-starter-apps-master/SongDetail_start/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
         "source": "/home/aleksei/.android/build-cache/e4011237111e551ea61310fc54adb7fd7e300690/output/res/layout-v16/notification_template_custom_big.xml"
     }

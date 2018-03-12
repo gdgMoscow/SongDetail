@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
      * device.
      */
 
+    private boolean mTwoPanel = false;
     /**
      * Sets up a song list as a RecyclerView.
      *
@@ -46,6 +47,10 @@ public class MainActivity extends AppCompatActivity {
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.song_list);
         recyclerView.setAdapter
                 (new SimpleItemRecyclerViewAdapter(SongUtils.SONG_ITEMS));
+
+        if (findViewById(R.id.song_detail_container) != null){
+            mTwoPanel = true;
+        }
     }
 
     /**
@@ -92,12 +97,21 @@ public class MainActivity extends AppCompatActivity {
             holder.mView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    Context context = v.getContext();
-                    Intent intent = new Intent(context,
-                            SongDetailActivity.class);
-                    intent.putExtra(SongUtils.SONG_ID_KEY,
-                            holder.getAdapterPosition());
-                    context.startActivity(intent);
+                    if (mTwoPanel){
+                        int selectSong = holder.getAdapterPosition();
+                        SongDetailFragment songDetailFragment = SongDetailFragment.newInstance(selectSong);
+                        getSupportFragmentManager().beginTransaction()
+                                .replace(R.id.song_detail_container, songDetailFragment)
+                                .addToBackStack(null)
+                                .commit();
+                    } else {
+                        Context context = v.getContext();
+                        Intent intent = new Intent(context,
+                                SongDetailActivity.class);
+                        intent.putExtra(SongUtils.SONG_ID_KEY,
+                                holder.getAdapterPosition());
+                        context.startActivity(intent);
+                    }
                 }
             });
         }
